@@ -6,6 +6,7 @@
   // make sure the code you submit WORKS - you can run this entire file
     // using `node cleanUp.js` or copy and paste into a replit
 
+console.log("this will be the best year ever");
 
 // EX 1:
 function nameQuestion() {

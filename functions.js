@@ -1,5 +1,9 @@
 // 1: Write a function named printGreeting that prints a simple greeting
 //message, the same one, every time it is called. Call this function 3 times.
+
+
+console.log("This will be the best year ever. \nWhere my dreams will come true!");
+
 function printGreeting(){
   console.log("Greeting Amy and Kaitlyn :)");
 }
